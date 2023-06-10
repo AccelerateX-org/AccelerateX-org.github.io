@@ -29,9 +29,9 @@ github_username:  jekyll
 
 # Build settings
 # local build
-#theme: just-the-docs
+theme: just-the-docs
 # production site GitHub
-remote_theme: just-the-docs/just-the-docs
+#remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-feed
